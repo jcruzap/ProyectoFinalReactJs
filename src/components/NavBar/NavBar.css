@@ -1,0 +1,29 @@
+.itemsnavbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+
+}
+
+.titulo {
+    display: flex;
+    flex: end;
+    color: rgb(193, 138, 197)
+}
+
+.navi {
+    background-color: rgb(205, 182, 204);
+}
+
+.itemnavbar {
+    background-color: rgb(245, 190, 228);
+    border: none;
+    color: rgb(255, 255, 255);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: flex;
+    font-size: 16px;
+    border-radius: 12px;
+}

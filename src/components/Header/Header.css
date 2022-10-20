@@ -1,0 +1,11 @@
+.logoHeader {
+    width: 90px;
+    height: 90px;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    background-color: #EE8CBD;
+
+}
